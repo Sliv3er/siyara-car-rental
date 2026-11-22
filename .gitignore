@@ -1,0 +1,39 @@
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
+###> symfony/asset-mapper ###
+/public/assets/
+/assets/vendor/
+###< symfony/asset-mapper ###
+
+###> phpunit/phpunit ###
+/phpunit.xml
+.phpunit.result.cache
+/.phpunit.cache/
+###< phpunit/phpunit ###
+
+# Uploaded car photos (keep the folder, not the files)
+/public/uploads/*
+!/public/uploads/.gitkeep
+
+# Dependencies and builds of front tools
+/node_modules/
+/public/build/
+
+# Editors and system files
+/.idea/
+/.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Database dumps and logs
+*.sql
+*.log
