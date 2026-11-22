@@ -9,7 +9,10 @@ branches, the bookings, the clients and the reviews from a dashboard with statis
 
 **Team:** Ghodhbane Ayoub, Benalaya Yousri
 
-**Specifications:** [docs/Ghodhbane_Benalaya_Project_Specifications_EN.pdf](docs/Ghodhbane_Benalaya_Project_Specifications_EN.pdf)
+**Specifications (cahier des charges):**
+
+- English: [docs/Ghodhbane_Benalaya_Project_Specifications_EN.pdf](docs/Ghodhbane_Benalaya_Project_Specifications_EN.pdf)
+- Français : [docs/Ghodhbane_Benalaya_Cahier_des_charges_FR.pdf](docs/Ghodhbane_Benalaya_Cahier_des_charges_FR.pdf)
 
 ## Status
 
